@@ -1,11 +1,19 @@
-# História da Internet 🌐
+# 🌐 História da Internet
 
-Este repositório contém informações e arquivos relacionados à aula sobre a história da internet, incluindo:
+Este repositório faz parte da atividade prática da aula de Modelagem de Negócios.
 
-- 📘 Resenha sobre o surgimento da internet
-- 🌐 Domínio fictício: www.triotechdev.com.br
-- 💻 Código HTML simples representando um site informativo
-- 🧠 Aprendizado sobre GitHub e controle de versões
+## Conteúdo:
+- ✅ Resenha sobre a história da Internet
+- ✅ Criação de site simples com HTML
+- ✅ Simulação de registro de domínio fictício
+- ✅ Uso do GitHub como portfólio de aprendizado
 
-Feito por: Gabriel Barbosa Lanna e equipe – Aula de Modelagem de Negócios
+## 🔗 Domínio fictício
+www.triotechdev.com.br *(domínio apenas ilustrativo)*
+
+## 💡 Objetivo
+Entender como a internet surgiu, como ela impactou os negócios e a importância da presença digital hoje.
+
+Feito por: Gabriel Barbosa Lanna e equipe.
+
 
